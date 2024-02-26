@@ -32,6 +32,9 @@
 .section__header, h1{
   color: #7bf409;
 }
+.error{
+  color: #fa0505;
+}
 .section__header, a{
   color: #fa0505;
 }
