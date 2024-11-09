@@ -61,7 +61,7 @@ ScrollReveal().reveal(".journals__card", {
 //<<<<<---------------------Count Down Code ---------------------------------->>>>>>>
 
 function countdown() {
-  const targetDate = new Date('January 9, 2025 00:00:00').getTime();
+  const targetDate = new Date('January 9 2025 00:00:00').getTime();
   
   const interval = setInterval(() => {
   const now = new Date().getTime();
